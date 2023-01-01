@@ -5,14 +5,14 @@
 - 👯 Sou Idealizadora da Comunidade Girls Testing
 - 💬 Fale comigo: contato@coniemenezes.com
 
-<div align="center">
+<div>
   <a href="https://github.com/coniemenezes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=coniemenezes&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 </div>
   
   ##
  
-<div align="center"> 
+<div> 
   <a href="https://www.youtube.com/@ConieMenezesQA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/conie.menezes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/coniemenezes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
