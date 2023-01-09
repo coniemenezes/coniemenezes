@@ -2,7 +2,8 @@
 
 - 🔭 Sou QA Analyst, Mentora de Testes de Software, Transição de Carreira e Carreira Internacional
 - 🌱 Estou Estudando Inglês e Testes Automatizados em Java.
-- 👯 Sou Idealizadora da Comunidade Girls Testing
+- 👯 Sou Idealizadora e fundadaora da Comunidade Girls Testing
+- 👩‍💻 Sou QA na Worten pela Kwan
 - 💬 Fale comigo: contato@coniemenezes.com
 
 ###  Minhas Redes Sociais!
