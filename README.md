@@ -1,6 +1,6 @@
 ### E ai QAs, eu sou a Conie Menezes 👋
 
-- 🔭 Sou QA Engenieer, Mentora de Testes de Software, Transição de Carreira e Carreira Internacional
+- 🔭 Sou QA Analyst, Mentora de Testes de Software, Transição de Carreira e Carreira Internacional
 - 🌱 Estou Estudando Inglês e Testes Automatizados em Java.
 - 👯 Sou Idealizadora da Comunidade Girls Testing
 - 💬 Fale comigo: contato@coniemenezes.com
