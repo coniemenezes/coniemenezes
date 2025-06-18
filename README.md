@@ -1,4 +1,4 @@
-[<h1 align="center">👋 E aí, QAs! Eu sou a Conie Menezes</h1>
+<h1 align="center">👋 E aí, QAs! Eu sou a Conie Menezes</h1>
 
 <p align="center">
   QA Analyst | Mentora de Testes de Software | Especialista em Transição de Carreira <br/>
@@ -56,11 +56,11 @@
 <a href="https://www.linkedin.com/in/coniemenezes" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:contato@coniemenezes.com">
+<a href="mailto:conie.menezes@gmail.com">
   <img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
 
-<p align="center">✨ Vamos crescer juntas na área de QA? Me acompanha e bora praticar! ✨</p>
-](https://coniemenezes.carrd.co/)
+<p align="center">✨ Vamos crescer juntas na área de QA? Me acompanha e bora praticar! ✨
+https://coniemenezes.carrd.co/</p>
