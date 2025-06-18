@@ -1,4 +1,4 @@
-<h1 align="center">👋 E aí, QAs! Eu sou a Conie Menezes</h1>
+[<h1 align="center">👋 E aí, QAs! Eu sou a Conie Menezes</h1>
 
 <p align="center">
   QA Analyst | Mentora de Testes de Software | Especialista em Transição de Carreira <br/>
@@ -63,3 +63,4 @@
 ---
 
 <p align="center">✨ Vamos crescer juntas na área de QA? Me acompanha e bora praticar! ✨</p>
+](https://coniemenezes.carrd.co/)
