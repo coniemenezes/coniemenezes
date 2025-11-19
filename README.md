@@ -4,7 +4,6 @@
   QA Lead | Mentora de Testes de Software | Especialista em Transição de Carreira <br/>
   Carreira Internacional | Instrutora de Testes Automatizados </p>
 
----
 
 ## Sobre mim
 
@@ -18,16 +17,31 @@
 - Idealizadora da comunidade **Girls Testing**
 - Fundadora da **Escola QualiCraft**
 
----
 
 ## Tecnologias & Ferramentas
 
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
----
+![BDD](https://img.shields.io/badge/BDD-000000?style=for-the-badge)
+![Gherkin](https://img.shields.io/badge/Gherkin-2088FF?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Capybara](https://img.shields.io/badge/Capybara-563D7C?style=for-the-badge)
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-02569B?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-009688?style=for-the-badge)
+
+![API](https://img.shields.io/badge/API-1E1E1E?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge)
+
+
 
 ## Repositórios em Destaque
 
@@ -36,7 +50,6 @@
 - 🔹 [**Robot-Framework-Tests-Web**](https://github.com/coniemenezes/QSR_FRONT) – Projeto turma QA Start Requisitado - Testes Web - FrontEnd
 - 🔹 [**Robot-Framework-API-Tests**](https://github.com/coniemenezes/livraria) – Projeto turma QA Start Requisitado - API Testes - BackEnd
 
----
 
 ## Estatísticas do GitHub
 
@@ -45,7 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coniemenezes&layout=compact&theme=radical" height="180"/>
 </p>
 
----
 
 ## Conecte-se comigo
 
