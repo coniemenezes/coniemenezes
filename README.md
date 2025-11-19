@@ -29,10 +29,10 @@
 
 ## Repositórios em Destaque
 
-- 🔹 [**Portfolio-QA**](https://github.com/coniemenezes/Portfolio-QA) – Projetos práticos e simulações de testes
-- 🔹 [**Estudos-QA**](https://github.com/coniemenezes/Estudos-QA) – Resumos e anotações de aprendizado
-- 🔹 [**Desafio-QA-Requisitado**](https://github.com/coniemenezes/Desafio-QA-Requisitado) – Desafios técnicos para iniciantes
-- 🔹 [**Robot-Framework-Tests**](https://github.com/coniemenezes/Robot-Framework-Tests) – Testes automatizados com RF
+- 🔹 [**Artefatos-de-testes**](https://github.com/coniemenezes/artefatos-de-testes) – Documentação de QA
+- 🔹 [**Estudos-QA**](https://github.com/coniemenezes/trilha-qa-2.0) – Trilha Gratuita de Estudos
+- 🔹 [**Projeto-QA-Start-Requisitado**](https://github.com/coniemenezes/QSR_FRONT) – Projeto turma QA Start Requisitado
+- 🔹 [**Robot-Framework-Tests**](https://github.com/coniemenezes/livraria) – Projeto de teste automatizado em Robotframework
 
 ---
 
