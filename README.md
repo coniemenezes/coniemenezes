@@ -83,14 +83,6 @@
 - 🔹 [**Robot-Framework-API-Tests**](https://github.com/coniemenezes/livraria) – Projeto turma QA Start Requisitado - API Testes - BackEnd
 
 
-## Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=coniemenezes&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coniemenezes&layout=compact&theme=radical" height="180"/>
-</p>
-
-
 ## Conecte-se comigo
 
 <a href="https://www.youtube.com/@ConieD.Menezes" target="_blank">
