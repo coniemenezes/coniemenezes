@@ -1,9 +1,8 @@
 <h1 align="center">E aí, QAs! Eu sou a Conie Menezes</h1>
 
 <p align="center">
-  QA Analyst | Mentora de Testes de Software | Especialista em Transição de Carreira <br/>
-  Carreira Internacional | Fundadora da Comunidade <strong>Girls Testing</strong>
-</p>
+  QA Lead | Mentora de Testes de Software | Especialista em Transição de Carreira <br/>
+  Carreira Internacional </p>
 
 ---
 
