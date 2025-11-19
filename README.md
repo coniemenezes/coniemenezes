@@ -26,8 +26,8 @@ Adquira agora mesmo a formação **QA Start**, focada em testes manuais para ini
 
 Se você está em transição de carreira ou começando do zero em Qualidade de Software, disponibilizei um eBook introdutório para te ajudar a estruturar os primeiros passos.
 
-- 📘 Ebook: **Descubra o caminho para sua primeira vaga em QA**  
-  [![Ebook Gratuito - Primeira Vaga em QA](https://img.shields.io/badge/EBOOK_Gratuito-Primeira_Vaga_em_QA-2F855A?style=for-the-badge)](https://coniemenezesmentora.blogspot.com/2025/06/descubra-o-caminho-para-sua-primeira.html)
+Ebook: **Descubra o caminho para sua primeira vaga em QA**  
+[![Ebook Gratuito - Primeira Vaga em QA](https://img.shields.io/badge/EBOOK_Gratuito-Primeira_Vaga_em_QA-2F855A?style=for-the-badge)](https://coniemenezesmentora.blogspot.com/2025/06/descubra-o-caminho-para-sua-primeira.html)
 
 
 ## Tecnologias & Ferramentas
