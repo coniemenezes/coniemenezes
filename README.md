@@ -31,8 +31,8 @@
 
 - 🔹 [**Artefatos-de-testes**](https://github.com/coniemenezes/artefatos-de-testes) – Documentação de QA
 - 🔹 [**Estudos-QA**](https://github.com/coniemenezes/trilha-qa-2.0) – Trilha Gratuita de Estudos
-- 🔹 [**Projeto-QA-Start-Requisitado**](https://github.com/coniemenezes/QSR_FRONT) – Projeto turma QA Start Requisitado
-- 🔹 [**Robot-Framework-Tests**](https://github.com/coniemenezes/livraria) – Projeto de teste automatizado em Robotframework
+- 🔹 [**Robot-Framework-Tests-Web**](https://github.com/coniemenezes/QSR_FRONT) – Projeto turma QA Start Requisitado - Testes Web - FrontEnd
+- 🔹 [**Robot-Framework-API-Tests**](https://github.com/coniemenezes/livraria) – Projeto turma QA Start Requisitado - API Testes - BackEnd
 
 ---
 
