@@ -19,8 +19,16 @@
 
 ## Formação Autoral
 
-Sou criadora da formação **QA Start**, focada em testes manuais para iniciantes e pessoas em transição de carreira.
+Adquira agora mesmo a formação **QA Start**, focada em testes manuais para iniciantes e pessoas em transição de carreira.
 [![QA Start - Formação em Testes Manuais](https://img.shields.io/badge/QA_Start-Formação_em_Testes_Manuais-8B0000?style=for-the-badge)](https://conie-menezes.hotmart.host/qa-start)
+
+## Materiais gratuitos
+
+Se você está em transição de carreira ou começando do zero em Qualidade de Software, disponibilizei um eBook introdutório para te ajudar a estruturar os primeiros passos.
+
+- 📘 Ebook: **Descubra o caminho para sua primeira vaga em QA**  
+  [Baixar eBook gratuitamente](https://coniemenezesmentora.blogspot.com/2025/06/descubra-o-caminho-para-sua-primeira.html)
+
 
 ## Tecnologias & Ferramentas
 
