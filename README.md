@@ -2,7 +2,7 @@
 
 <p align="center">
   QA Lead | Mentora de Testes de Software | Especialista em Transição de Carreira <br/>
-  Carreira Internacional </p>
+  Carreira Internacional | Instrutora de Testes Automatizados </p>
 
 ---
 
@@ -10,6 +10,9 @@
 
 - Atualmente QA Lead na Worten (Portugal) pela Kwan
 - Estudando Francês e inglês
+- MBA em Gestão Estratégica de Negócios em TI, Gestão de Projetos de TI
+- Pós Graduada em Inteligência Artificial, Machine Learning e Data Science
+- Graduada em Analise e Desenvolvimento de Sistemas
 - Mentora de mulheres em transição de carreira para QA
 - Criadora das formações **QA Start** , **QA Requisitado** e **Robot Framework + AI**
 - Idealizadora da comunidade **Girls Testing**
