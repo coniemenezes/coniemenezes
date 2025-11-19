@@ -17,6 +17,10 @@
 - Idealizadora da comunidade **Girls Testing**
 - Fundadora da **Escola QualiCraft**
 
+## Formação Autoral
+
+Sou criadora da formação **QA Start**, focada em testes manuais para iniciantes e pessoas em transição de carreira.
+[![QA Start - Formação em Testes Manuais](https://img.shields.io/badge/QA_Start-Formação_em_Testes_Manuais-8B0000?style=for-the-badge)](https://conie-menezes.hotmart.host/qa-start)
 
 ## Tecnologias & Ferramentas
 
